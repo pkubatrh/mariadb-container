@@ -1,4 +1,4 @@
-MariaDB 10.2 SQL Database Server Docker image
+MariaDB 10.2 SQL Database Server container image
 =============================================
 
 This container image includes MariaDB 10.2 SQL database server for OpenShift and general usage.

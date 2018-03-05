@@ -1,4 +1,4 @@
-MariaDB SQL Database Server Docker Image
+MariaDB SQL Database Server Container Image
 ========================================
 
 This repository contains Dockerfiles for MariaDB images for OpenShift and general usage.
@@ -12,7 +12,7 @@ official [OpenShift Documentation](https://docs.openshift.org/latest/using_image
 
 For more information about contributing, see
 [the Contribution Guidelines](https://github.com/sclorg/welcome/blob/master/contribution.md).
-For more information about concepts used in these docker images, see the
+For more information about concepts used in these container images, see the
 [Landing page](https://github.com/sclorg/welcome).
 
 
